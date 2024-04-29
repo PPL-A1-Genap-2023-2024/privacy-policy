@@ -21,15 +21,19 @@
 ### Educational Objective:
 - Our game endeavors to educate children aged 3-5 years old about fundamental health concepts and conditions like thalassemia in an age-appropriate manner.
 - Information presented within the game is simplified and tailored to young children's cognitive abilities.
+
 ### Sensitivity and Respect:
 - We handle the topic of thalassemia with sensitivity and respect, avoiding any alarming or distressing content.
 - Our game promotes positive messaging about health, wellness, and inclusivity.
+
 ### Inclusivity and Diversity:
 - The game's characters and scenarios depict diversity in ethnicity, abilities, and family structures.
 - We advocate for inclusivity and empathy towards individuals with health conditions like thalassemia.
+
 ### Parental Involvement:
 - We encourage parents to actively engage with their children during gameplay, offering additional context and support.
 - Resources for parents regarding thalassemia and general health education are accessible within the game or via external links.
+
 ### Feedback and Assistance:
 - We welcome feedback from parents and caregivers concerning the efficacy and suitability of the game's educational content.
 - Support services are provided for parents seeking further information or assistance related to thalassemia.
