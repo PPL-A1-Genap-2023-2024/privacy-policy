@@ -1,43 +1,54 @@
 # Talacare A1 Privacy Policy
 
-## Information Collection:
-- Our game gathers minimal personal data essential for gameplay, such as the user's age (to comply with COPPA regulations) and gameplay metrics for performance analysis and enhancement.
+## Collection of Information:
+
+- Our game collects minimal personal information necessary for gameplay, such as user's age (to ensure compliance with COPPA regulations) and gameplay data for performance analysis and improvement.
 - No personally identifiable information is collected from users aged 3-5 years old.
-- We do not knowingly acquire or retain any personal data from children under 13 years old without verifiable parental consent.
+- We do not knowingly collect or store any personal information from children under 13 years old without verifiable parental consent.
 
-## Utilization of Data:
-- The data gathered is strictly utilized to enrich the gaming experience.
-- Personal information is not disclosed to third parties.
+## Use of Information:
 
-## Security Measures:
-- We implement reasonable measures to safeguard collected information.
-- Encryption and other security protocols are employed to secure data transmission.
+- Information collected is used solely for the purpose of enhancing the user experience within the game.
+- Personal information is not shared with third parties.
+
+## Security:
+
+- We take reasonable measures to safeguard the information collected.
+- We employ encryption and other security protocols to protect data transmission.
 
 ## Parental Rights:
-- Parents retain the right to review, delete, or regulate the gathering of their child's personal data.
-- For any concerns regarding their child's privacy, parents can contact us at [contact.talacarea1@gmail.com](mailto:contact.talacarea1@gmail.com).
 
-## Health and Thalassemia Awareness Policy
-### Educational Objective:
-- Our game endeavors to educate children aged 3-5 years old about fundamental health concepts and conditions like thalassemia in an age-appropriate manner.
-- Information presented within the game is simplified and tailored to young children's cognitive abilities.
+- Parents have the right to review, delete, or restrict the collection of their child's personal information.
+- Parents can contact us at [contact.talacarea1@gmail.com](mailto:contact.talacarea1@gmail.com) for any concerns regarding their child's privacy.
 
-### Sensitivity and Respect:
-- We handle the topic of thalassemia with sensitivity and respect, avoiding any alarming or distressing content.
-- Our game promotes positive messaging about health, wellness, and inclusivity.
 
-### Inclusivity and Diversity:
-- The game's characters and scenarios depict diversity in ethnicity, abilities, and family structures.
-- We advocate for inclusivity and empathy towards individuals with health conditions like thalassemia.
+# Policy on Health and Thalassemia Awareness
 
-### Parental Involvement:
-- We encourage parents to actively engage with their children during gameplay, offering additional context and support.
-- Resources for parents regarding thalassemia and general health education are accessible within the game or via external links.
+## Educational Purpose:
 
-### Feedback and Assistance:
-- We welcome feedback from parents and caregivers concerning the efficacy and suitability of the game's educational content.
-- Support services are provided for parents seeking further information or assistance related to thalassemia.
+- Our game aims to educate children aged 3-5 years old about basic health concepts and conditions like thalassemia in an age-appropriate manner.
+- Information provided within the game is simplified and tailored to the cognitive abilities of young children.
 
-By utilizing our game, parents and guardians acknowledge and consent to the terms outlined in this Privacy and Policy document.
+## Sensitivity and Respect:
 
-_Last Updated: 29th April 2024_
+- We treat the topic of thalassemia with sensitivity and respect, avoiding any frightening or alarming content.
+- Our game emphasizes positive messaging about health, well-being, and inclusivity.
+
+## Inclusivity and Diversity:
+
+- Characters and scenarios in the game reflect diversity in ethnicity, abilities, and family structures.
+- We promote inclusivity and empathy towards individuals with health conditions like thalassemia.
+
+## Parental Guidance:
+
+- We encourage parents to engage with their children while playing the game, providing additional context and support.
+- Resources for parents about thalassemia and general health education are available within the game or through external links.
+
+## Feedback and Support:
+
+- We welcome feedback from parents and caregivers regarding the effectiveness and appropriateness of the game's educational content.
+- Support services for parents seeking further information or assistance related to thalassemia are provided.
+
+By using our game, parents and guardians acknowledge and agree to the terms outlined in this Privacy and Policy document.
+
+\_Last Updated: 26th May 2024
